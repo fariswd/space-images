@@ -1,0 +1,13 @@
+.mid-80 {
+  position: absolute;
+  width: 80%;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+@media only screen and (max-width: 1024px) {
+  .mid-80 {
+    width: 100%;
+  }
+}
